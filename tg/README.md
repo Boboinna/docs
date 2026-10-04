@@ -1,4 +1,4 @@
-# Courses Ecosystem — Bot + Channel Testing Phase
+# TG Ecosystem — Bot + Channel Testing Phase
 
 This is the bot/channel/storage/deletion/tracking mechanics only —
 no blog, no real ad-gate, no mini app yet. The gate is stubbed
